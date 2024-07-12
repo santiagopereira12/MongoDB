@@ -1,0 +1,3 @@
+use("name_db")
+
+db.collection.find({conslta: "descripcion"})
